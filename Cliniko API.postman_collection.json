@@ -7,3 +7,195 @@
 	},
 	"item": []
 }
+{
+  "patients": [
+    {
+      "accepted_email_marketing": true,
+      "accepted_privacy_policy": null,
+      "accepted_sms_marketing": false,
+      "address_1": "123 Clinic Road",
+      "address_2": "",
+      "address_3": "",
+      "appointment_notes": "Patient prefers morning appointments",
+      "archived_at": null,
+      "city": "delhi",
+      "country": "India",
+      "country_code": "IN",
+      "created_at": "2025-02-09T07:28:08Z",
+      "custom_fields": null,
+      "date_of_birth": "1995-04-01",
+      "deleted_at": null,
+      "dva_card_number": null,
+      "email": "jazz123@gmail.com",
+      "emergency_contact": "9876543210",
+      "first_name": "Jasmine",
+      "gender": null,
+      "gender_identity": "Woman",
+      "id": "1617200211682141648",
+      "invoice_default_to": "",
+      "invoice_email": null,
+      "invoice_extra_information": "",
+      "label": "Jasmine Anand",
+      "last_name": "Anand",
+      "medicare": "123456789012",
+      "medicare_reference_number": null,
+      "merged_at": null,
+      "notes": "Patient has a history of migraines",
+      "occupation": "Software Engineer",
+      "old_reference_id": "REF001",
+      "patient_phone_numbers": [
+        {
+          "normalized_number": "911234567890",
+          "number": "1234567890",
+          "phone_type": "Mobile"
+        }
+      ],
+      "post_code": "200001",
+      "preferred_first_name": null,
+      "pronouns": null,
+      "receives_cancellation_emails": true,
+      "receives_confirmation_emails": true,
+      "referral_source": "hello",
+      "reminder_type": "SMS & Email",
+      "sex": "Female",
+      "state": "delhi",
+      "time_zone": null,
+      "title": "Ms",
+      "updated_at": "2025-02-09T12:04:13Z",
+      "latest_booking": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/bookings/1617336553170806126"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617200211682141648/appointments"
+        }
+      },
+      "attendees": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/attendees?q%5B%5D=patient_id%3A%3D1617200211682141648"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617200211682141648/invoices"
+        }
+      },
+      "patient_attachments": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617200211682141648/patient_attachments"
+        }
+      },
+      "medical_alerts": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617200211682141648/medical_alerts"
+        }
+      },
+      "relationships": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/relationships?q%5B%5D=patient_id%3A%3D1617200211682141648"
+        }
+      },
+      "links": {
+        "self": "https://api.au4.cliniko.com/v1/patients/1617200211682141648"
+      }
+    },
+    {
+      "accepted_email_marketing": false,
+      "accepted_privacy_policy": null,
+      "accepted_sms_marketing": false,
+      "address_1": "east bagru road",
+      "address_2": "",
+      "address_3": "",
+      "appointment_notes": "",
+      "archived_at": null,
+      "city": "Jaipur",
+      "country": "India",
+      "country_code": "IN",
+      "created_at": "2025-02-09T12:07:57Z",
+      "custom_fields": null,
+      "date_of_birth": "1997-02-01",
+      "deleted_at": null,
+      "dva_card_number": null,
+      "email": "ayush0kumar@gmail.com",
+      "emergency_contact": "",
+      "first_name": "Ayush",
+      "gender": null,
+      "gender_identity": "Man",
+      "id": "1617341050102228591",
+      "invoice_default_to": "",
+      "invoice_email": null,
+      "invoice_extra_information": "",
+      "label": "Ayush Kumar",
+      "last_name": "Kumar",
+      "medicare": "219311125",
+      "medicare_reference_number": null,
+      "merged_at": null,
+      "notes": "Has a history of gastrointestinal issues",
+      "occupation": "Plumber",
+      "old_reference_id": "REF002",
+      "patient_phone_numbers": [
+        {
+          "normalized_number": "917682731677",
+          "number": "7682731677",
+          "phone_type": "Mobile"
+        }
+      ],
+      "post_code": "400001",
+      "preferred_first_name": null,
+      "pronouns": null,
+      "receives_cancellation_emails": true,
+      "receives_confirmation_emails": true,
+      "referral_source": null,
+      "reminder_type": "SMS & Email",
+      "sex": "Male",
+      "state": "Rajasthan",
+      "time_zone": null,
+      "title": "Mr",
+      "updated_at": "2025-02-09T12:11:22Z",
+      "latest_booking": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/bookings/1617342329062958458"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617341050102228591/appointments"
+        }
+      },
+      "attendees": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/attendees?q%5B%5D=patient_id%3A%3D1617341050102228591"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617341050102228591/invoices"
+        }
+      },
+      "patient_attachments": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617341050102228591/patient_attachments"
+        }
+      },
+      "medical_alerts": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/patients/1617341050102228591/medical_alerts"
+        }
+      },
+      "relationships": {
+        "links": {
+          "self": "https://api.au4.cliniko.com/v1/relationships?q%5B%5D=patient_id%3A%3D1617341050102228591"
+        }
+      },
+      "links": {
+        "self": "https://api.au4.cliniko.com/v1/patients/1617341050102228591"
+      }
+    }
+  ],
+  "total_entries": 2,
+  "links": {
+    "self": "https://api.au4.cliniko.com/v1/patients?page=1"
+  }
+}
