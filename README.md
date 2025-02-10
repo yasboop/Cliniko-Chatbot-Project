@@ -57,7 +57,7 @@ You can view the Voiceflow project for this chatbot at the link below:
 
   ## Postman API Collection
 
-The Postman collection for testing the Cliniko API can be found [here](./Cliniko API.postman_collection.json).
+The Postman collection for testing the Cliniko API can be found ./Cliniko API.postman_collection.json .
 
 This collection includes:
 - **Get Patient List**: Retrieves a list of all patients.
