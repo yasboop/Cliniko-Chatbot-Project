@@ -70,14 +70,4 @@ Here are a few suggested enhancements for the chatbot:
 4. **Integration with Third-Party Platforms:**
    - Connect the chatbot to other healthcare platforms for lab reports, prescriptions, or telemedicine services.
 
-## Repository Structure
-```plaintext
-Cliniko-Chatbot-Project/
-├── voiceflow-project.vf          # Exported Voiceflow project file
-├── screenshots/
-│   ├── voiceflow-flow.png        # Screenshot of Voiceflow flow
-│   ├── chatbot-test.png          # Screenshot of chatbot in action
-├── api-testing/
-│   ├── get-patients-response.json  # Postman JSON response for /patients
-│   ├── get-patient-id-response.json # Postman JSON response for /patients/{id}
-├── README.md                     # This file
+
