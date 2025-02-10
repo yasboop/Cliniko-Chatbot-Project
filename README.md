@@ -39,7 +39,7 @@ You can view the Voiceflow project for this chatbot at the link below:
 
 ## How to Run
 1. **Access the Project:**
-   - Open the [Voiceflow Cliniko Chatbot Project](https://your-voiceflow-project-link.com) link.
+   - Open the [Voiceflow Cliniko Chatbot Project](https://creator.voiceflow.com/prototype/67a73cb60fe6c98cd39cb19c)link.
    - Import the project into your Voiceflow account if needed.
 
 2. **Set Up API Key:**
