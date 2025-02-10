@@ -35,7 +35,7 @@ You can view the Voiceflow project for this chatbot at the link below:
 ### Voiceflow Flow:
 ![Voiceflow Project Flow](https://i.postimg.cc/1tdJrP81/temp-Image-U3iw-Fo.avif)
 ### Chatbot in Action:
-![Chatbot Test Mode](https://your-image-hosting-link.com/chatbot-test.png)
+![Chatbot Test Mode]((https://i.postimg.cc/1tdJrP81/temp-Image-U3iw-Fo.avif))
 
 ## How to Run
 1. **Access the Project:**
