@@ -55,6 +55,16 @@ You can view the Voiceflow project for this chatbot at the link below:
   - `GET /patients/{id}`
 - These screenshots are included in the `api-testing` folder of this repository.
 
+  ## Postman API Collection
+
+The Postman collection for testing the Cliniko API can be found [here](./Cliniko API.postman_collection.json).
+
+This collection includes:
+- **Get Patient List**: Retrieves a list of all patients.
+- **Get Patient Details**: Retrieves details for a specific patient (if applicable).
+
+
+
 ## Additional Use Cases
 Here are a few suggested enhancements for the chatbot:
 1. **Appointment Management:**
