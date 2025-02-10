@@ -33,8 +33,7 @@ You can view the Voiceflow project for this chatbot at the link below:
 
 ## Screenshots
 ### Voiceflow Flow:
-![Voiceflow Project Flow](https://your-image-hosting-link.com/voiceflow-flow.png)
-
+![Voiceflow Project Flow](https://i.postimg.cc/1tdJrP81/temp-Image-U3iw-Fo.avif)
 ### Chatbot in Action:
 ![Chatbot Test Mode](https://your-image-hosting-link.com/chatbot-test.png)
 
